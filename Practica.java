@@ -33,7 +33,7 @@ public class Practica {
                 break
                         
                else{
-                System.out.println("ESCOJA EL NUMERO CORRECTO");
+                System.out.println("ESCOJA EL NUMERO CORRECTO por favor");
             }
     
 }
