@@ -9,7 +9,7 @@ package pkgnew;
  * @author Alumno
  */
 public class New {
-
+  
     /**
      * @param args the command line arguments
      */
